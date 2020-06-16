@@ -5,7 +5,7 @@ class Artitst
   @@all = []
 
   def initialize
-    
+
   end
 
   def self.all
